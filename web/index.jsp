@@ -1,9 +1,3 @@
-<%-- 
-    Document   : index
-    Created on : 7 Mar, 2014, 1:34:31 PM
-    Author     : SAMSUNG
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
